@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64557338527",
+    "project_id": "ntnews-dd4a0",
+    "storage_bucket": "ntnews-dd4a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64557338527:android:557655cc11fa359b7bf7aa",
+        "android_client_info": {
+          "package_name": "com.example.ntnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0PGALU6CKBHOHQii9hgc9fr_AFxdxHME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
